@@ -1,0 +1,16 @@
+{
+  "name": "blockchain-fundamentals",
+  "version": "1.0.0",
+  "description": "",
+  "main": "blockchain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "markus1728",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^15.0.3",
+    "crypto-js": "^4.0.0"
+  }
+}
