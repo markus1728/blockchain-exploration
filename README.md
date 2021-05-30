@@ -1,5 +1,5 @@
 # Blockchain-Exploration
-Implementation of the blockchain fundamentals in Javascript.
+Implementation of blockchain fundamentals in Javascript.
 
 Functionalities included:
   - Chain generation
